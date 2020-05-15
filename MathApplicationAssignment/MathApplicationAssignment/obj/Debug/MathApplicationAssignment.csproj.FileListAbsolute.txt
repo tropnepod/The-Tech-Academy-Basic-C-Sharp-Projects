@@ -1,0 +1,7 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\bin\Debug\MathApplicationAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\bin\Debug\MathApplicationAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\bin\Debug\MathApplicationAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb

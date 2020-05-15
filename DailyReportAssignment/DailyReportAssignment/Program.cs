@@ -16,14 +16,23 @@ namespace DailyReportAssignment
             string currentCourse = Console.ReadLine();
             Console.WriteLine("What page number?");
             string currentPageNum = Console.ReadLine();
+            
+            int curPageNum = Convert.ToInt32(currentPageNum); // casts string into int data type
+            
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
             string needHelp = Console.ReadLine();
+
+            bool isHelpNeeded = Convert.ToBoolean(needHelp); // casts string into boolean data type
+            
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics");
             string feedback = Console.ReadLine();
             Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
             string additionalFeedback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
             string hoursStudied = Console.ReadLine();
+            
+            int studyHours = Convert.ToInt32(hoursStudied); // casts string into int data type
+            
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             //Console.WriteLine(currentCourse + " : " + currentPageNum + " : " + needHelp + " : " + feedback + " : " + additionalFeedback + " : " + hoursStudied);
             Console.ReadLine();

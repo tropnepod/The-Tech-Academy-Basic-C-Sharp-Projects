@@ -1,0 +1,7 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.pdb

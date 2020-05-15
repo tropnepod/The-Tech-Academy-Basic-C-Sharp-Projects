@@ -1,0 +1,6 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\StringFunctionAssignment\StringFunctionAssignment\bin\Debug\StringFunctionAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\StringFunctionAssignment\StringFunctionAssignment\bin\Debug\StringFunctionAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\StringFunctionAssignment\StringFunctionAssignment\bin\Debug\StringFunctionAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\StringFunctionAssignment\StringFunctionAssignment\obj\Debug\StringFunctionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\StringFunctionAssignment\StringFunctionAssignment\obj\Debug\StringFunctionAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\StringFunctionAssignment\StringFunctionAssignment\obj\Debug\StringFunctionAssignment.pdb

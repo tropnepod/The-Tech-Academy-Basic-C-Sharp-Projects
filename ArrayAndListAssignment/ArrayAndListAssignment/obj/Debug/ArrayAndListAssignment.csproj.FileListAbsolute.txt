@@ -1,0 +1,6 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.pdb

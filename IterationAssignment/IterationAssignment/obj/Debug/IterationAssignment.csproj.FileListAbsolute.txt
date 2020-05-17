@@ -1,0 +1,7 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.pdb

@@ -1,0 +1,6 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb

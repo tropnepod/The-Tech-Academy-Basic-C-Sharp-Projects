@@ -1,0 +1,7 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\bin\Debug\ClassAssignment4.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\bin\Debug\ClassAssignment4.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\bin\Debug\ClassAssignment4.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.pdb

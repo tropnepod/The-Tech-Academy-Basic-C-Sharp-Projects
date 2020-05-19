@@ -8,7 +8,11 @@ namespace ClassAssignment6
 {
     public class Employee : Person
     {
-        
+        public override void SayName()
+        {
+            // Console.WriteLine("This is coming from the Employee Class...");
+            base.SayName();
+        }
         public int Id { get; set; }
     }
 }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClassAssignment6
 {
-    public class Person
+    public abstract class Person
     {
-        public void SayName()
+        public virtual void SayName()
         {
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
         }

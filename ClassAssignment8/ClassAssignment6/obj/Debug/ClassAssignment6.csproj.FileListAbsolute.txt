@@ -5,3 +5,10 @@ C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment6\ClassAssignment6\o
 C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment6\ClassAssignment6\obj\Debug\ClassAssignment6.exe
 C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment6\ClassAssignment6\obj\Debug\ClassAssignment6.pdb
 C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment6\ClassAssignment6\obj\Debug\ClassAssignment6.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\bin\Debug\ClassAssignment6.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\bin\Debug\ClassAssignment6.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\bin\Debug\ClassAssignment6.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\obj\Debug\ClassAssignment6.csprojAssemblyReference.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\obj\Debug\ClassAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\obj\Debug\ClassAssignment6.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\ClassAssignment7\ClassAssignment6\obj\Debug\ClassAssignment6.pdb

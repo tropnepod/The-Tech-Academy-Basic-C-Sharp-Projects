@@ -1,0 +1,6 @@
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\mrask\Desktop\Basic_Csharp_Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
